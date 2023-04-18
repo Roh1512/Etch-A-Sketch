@@ -51,16 +51,3 @@ body {
     border-radius: 3px;
     margin-bottom: 10px;
 }
-#sizeAdjust::-webkit-slider-runnable-track{
-    background-color: transparent;
-}
-#sizeAdjust::-moz-range-track{
-    background-color: transparent;
-}
-#sizeAdjust::-webkit-slider-thumb{
-    -webkit-appearance: none;
-    height: 20px;
-    width: 10px;
-    border-radius: 50%;
-    background-color: red;
-}
